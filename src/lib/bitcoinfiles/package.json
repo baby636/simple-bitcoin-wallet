@@ -38,6 +38,6 @@
     "bitbox-sdk": "^2.2.8",
     "browserify": "^16.2.2",
     "mocha": "^5.2.0",
-    "uglify-es": "^3.3.9"
+    "uglify-es": "^3.3.10"
   }
 }
