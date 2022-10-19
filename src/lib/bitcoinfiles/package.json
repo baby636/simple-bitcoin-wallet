@@ -37,7 +37,7 @@
   "devDependencies": {
     "bitbox-sdk": "^2.2.8",
     "browserify": "^16.2.2",
-    "mocha": "^5.2.0",
+    "mocha": "^9.2.2",
     "uglify-es": "^3.3.9"
   }
 }
